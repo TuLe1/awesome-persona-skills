@@ -85,7 +85,7 @@
 - [风骚律师.skill](https://github.com/YeJe-cpu/saul-goodman-skill) - 《风骚律师》/ Better Call Saul 中 Saul Goodman / Jimmy McGill / 索尔古德曼的角色蒸馏 skill：谈判、说服、找角度与表达 DNA
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 教育/职业规划/阶层流动
 - [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展
-- [凉兮 skills](https://github.com/1sh1ro/liangxi-skills) - 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达
+- [凉兮.skills](https://github.com/1sh1ro/liangxi-skills) - 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达
 - [卡兹克.skill](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 - [黑鸦.skill](https://github.com/ChouChiu/heya.skill) - 基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。
 - [勇哥.skill](https://github.com/qq6690876/yongge-perspective) - 抖音/哔哩哔哩餐饮创业咨询类博主 勇哥餐饮创业说(孙继勇)的思维操作系统 — 6 个核心心智模型 + 8 条决策启发式
@@ -118,13 +118,15 @@
 - [图鉴.skill](https://github.com/Aar0nPB/curator-skill) - 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
-- [NotFair.skill](https://github.com/nowork-studio/NotFair) - 面向 SEO、Google Ads 与 Meta Ads 的开源 Claude Code Skills 合集；通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 连接实时数据，覆盖关键词研究、元标签优化、Schema 标记、广告审计与竞价管理等场景
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
 - [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
 - [达尔文.skill](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills
 - [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill
 - [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - 制作电子杂志风网页 PPT
+- [写作.skill](https://github.com/KKKKhazix/human-writing) - 活人感写作，让模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来
+- [导演.skill](https://github.com/kangarooking/director-skills) - 让 Agent 像导演一样，把创意、剧本、分镜、生成与成片组织成可执行的 AI 视频工作流
+- [仓颉.skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills
 
 ### 合集收藏
 
