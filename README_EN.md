@@ -124,11 +124,6 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Director.skill](https://github.com/kangarooking/director-skills) - Let Agent act like a director, organizing creativity, scripts, storyboards, generation and final cuts into executable AI video workflows
 - [Cangjie.skill](https://github.com/kangarooking/cangjie-skill) - Distill methodologies from books, long videos, and podcasts into callable AI Skills
 
-### Collections
-
-- [AI Persona Skills Collection](https://github.com/momozi1996/awesome-ai-persona-skills) - The web's most comprehensive, continuously updated collection of 100+ distilled skills spanning celebrities/classics/anime/workplace/relationships — plus exclusive novelists' writing styles.
----
-
 ## 🧠 One-Line Philosophy
 
 > **Everything can be a skill, life is full of distillation.**

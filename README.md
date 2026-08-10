@@ -128,12 +128,7 @@
 - [导演.skill](https://github.com/kangarooking/director-skills) - 让 Agent 像导演一样，把创意、剧本、分镜、生成与成片组织成可执行的 AI 视频工作流
 - [仓颉.skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills
 
-### 合集收藏
-
-- [AI人格蒸馏Skills合集](https://github.com/momozi1996/awesome-ai-persona-skills) - 全网最全、持续更新的100+人格蒸馏skills合集｜名人/古籍/二次元/职场/情感全品类，含独家手工蒸馏的顶级作家创作思维。
-
 ---
-
 
 
 > **万物皆可 skill，人生处处是蒸馏。**
