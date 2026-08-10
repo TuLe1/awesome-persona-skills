@@ -30,8 +30,6 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 [🛠️ Tools](#tools)
 
-[🗂️ Collections](#collections)
-
 ### Workplace & Academia
 
 - [Colleague.skill](https://github.com/titanwings/colleague-skill) - Turn cold departures into warm Skills

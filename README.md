@@ -32,8 +32,6 @@
 
 [🛠️ 工具类](#工具类)
 
-[🗂️ 合集收藏](#合集收藏)
-
 ### 职场与学术
 
 - [同事.skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill
