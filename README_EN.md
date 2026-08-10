@@ -134,7 +134,3 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 > **Everything can be a skill, life is full of distillation.**
 
 Welcome to PR your own `.skill` 🔧
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tmstack/awesome-persona-skills&type=Date)](https://star-history.com/#tmstack/awesome-persona-skills&Date)

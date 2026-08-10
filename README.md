@@ -140,6 +140,3 @@
 
 欢迎 PR 补充你自己的 `.skill` 🔧
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tmstack/awesome-persona-skills&type=Date)](https://star-history.com/#tmstack/awesome-persona-skills&Date)
