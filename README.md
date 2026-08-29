@@ -87,6 +87,7 @@
 - [卡兹克.skill](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 - [黑鸦.skill](https://github.com/ChouChiu/heya.skill) - 基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。
 - [勇哥.skill](https://github.com/qq6690876/yongge-perspective) - 抖音/哔哩哔哩餐饮创业咨询类博主 勇哥餐饮创业说(孙继勇)的思维操作系统 — 6 个核心心智模型 + 8 条决策启发式
+- [孙宇晨.skill](https://github.com/alchaincyf/sun-yuchen-perspective) - 宁可背负骂名把事情做成，也不做悲剧英雄
 
 ### 传统文化与哲学
 
