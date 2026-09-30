@@ -117,6 +117,7 @@
 - [图鉴.skill](https://github.com/Aar0nPB/curator-skill) - 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
+- [汇报.skill](https://github.com/Luious-LYH/huibao-skill) - 别让做过的事最后只剩一句“已完成”：把零散材料按你的语气，写成适合不同读者的日报、周报和阶段汇报
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
 - [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
@@ -127,6 +128,7 @@
 - [导演.skill](https://github.com/kangarooking/director-skills) - 让 Agent 像导演一样，把创意、剧本、分镜、生成与成片组织成可执行的 AI 视频工作流
 - [仓颉.skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills
 - [YYLO Skills.skill](https://github.com/yylo-dev/yylo-skills) - 面向编码 Agent 的任务编排技能合集：看板任务管理、项目理解、计划拆解与 Ralph 自主执行循环，驱动 Claude Code 类 CLI 全流程交付任务
+- [中国专利.skill](https://github.com/handsomestWei/patent-disclosure-skill) - 专利点挖掘、交底书（发明/实用/外观）与申请文件编写；按图或权要等多条件检索；通俗解读专利和地图探索；审查政策解读；辅助审查答复
 
 ---
 

@@ -113,6 +113,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Curator.skill](https://github.com/Aar0nPB/curator-skill) - Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent
 - [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
+- [Huibao.skill](https://github.com/Luious-LYH/huibao-skill) - Turn scattered work into reports that sound like you — daily, weekly, monthly, or tailored to the person reading them
 - [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - A skill to teach AI how to use human as DOBBY.
 - [DAK News.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - News archive skill designed for AI, covering 30+ sources and updating every 30 minutes for searching, browsing, and structured news analysis
 - [Skill Everyone.skill](https://github.com/MIMIFY/skill_everyone) - Novels, games, anime, films, your own OC — auto-research or manual feed + psychological modeling, let them speak and stay with you.
@@ -123,6 +124,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Director.skill](https://github.com/kangarooking/director-skills) - Let Agent act like a director, organizing creativity, scripts, storyboards, generation and final cuts into executable AI video workflows
 - [Cangjie.skill](https://github.com/kangarooking/cangjie-skill) - Distill methodologies from books, long videos, and podcasts into callable AI Skills
 - [YYLO Skills.skill](https://github.com/yylo-dev/yylo-skills) - Task-orchestration skills for coding agents: Kanban task management, project understanding, planning, and an autonomous execution loop that together drive Claude Code-style CLIs to deliver tasks end to end
+- [PatentDisclosure.skill](https://github.com/handsomestWei/patent-disclosure-skill) - Mine patentable ideas, draft disclosure documents (invention/utility model/design) and application files; multi-condition search by figures or claims; plain-language patent reading and landscape exploration; examination policy interpretation; office action response assistance
 
 ## 🧠 One-Line Philosophy
 
