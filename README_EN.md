@@ -123,6 +123,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [HumanWriting.skill](https://github.com/KKKKhazix/human-writing) - Human-like writing — make AI-written articles read like a specific person speaking — knowing things, having judgments, occasionally wandering off, and being able to come back
 - [Director.skill](https://github.com/kangarooking/director-skills) - Let Agent act like a director, organizing creativity, scripts, storyboards, generation and final cuts into executable AI video workflows
 - [Cangjie.skill](https://github.com/kangarooking/cangjie-skill) - Distill methodologies from books, long videos, and podcasts into callable AI Skills
+- [YYLO Skills.skill](https://github.com/yylo-dev/yylo-skills) - Task-orchestration skills for coding agents: Kanban task management, project understanding, planning, and an autonomous execution loop that together drive Claude Code-style CLIs to deliver tasks end to end
 - [PatentDisclosure.skill](https://github.com/handsomestWei/patent-disclosure-skill) - Mine patentable ideas, draft disclosure documents (invention/utility model/design) and application files; multi-condition search by figures or claims; plain-language patent reading and landscape exploration; examination policy interpretation; office action response assistance
 
 ## 🧠 One-Line Philosophy

@@ -127,6 +127,7 @@
 - [写作.skill](https://github.com/KKKKhazix/human-writing) - 活人感写作，让模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来
 - [导演.skill](https://github.com/kangarooking/director-skills) - 让 Agent 像导演一样，把创意、剧本、分镜、生成与成片组织成可执行的 AI 视频工作流
 - [仓颉.skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills
+- [YYLO Skills.skill](https://github.com/yylo-dev/yylo-skills) - 面向编码 Agent 的任务编排技能合集：看板任务管理、项目理解、计划拆解与 Ralph 自主执行循环，驱动 Claude Code 类 CLI 全流程交付任务
 - [中国专利.skill](https://github.com/handsomestWei/patent-disclosure-skill) - 专利点挖掘、交底书（发明/实用/外观）与申请文件编写；按图或权要等多条件检索；通俗解读专利和地图探索；审查政策解读；辅助审查答复
 
 ---
